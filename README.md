@@ -3,6 +3,6 @@ A simple and light-weight tutorial of trajectory optimization (TO) and model pre
 
 Different from the reinforcement learning (RL), TO and MPC are general model-based control methods, especially for legged robots and manipulators. 
 
-This repository provides a simple and light-weight tutorial for TO and MPC. It is based on the TO software _trajOptim_ developed by M. Kelly, who currently works for Atlas in Boston Dynamics.
+This repository provides a simple and light-weight tutorial for TO and MPC. It is based on the TO software __trajOptim__(https://github.com/MatthewPeterKelly/OptimTraj) developed by M. Kelly, who currently works for Atlas in Boston Dynamics.
 
 
