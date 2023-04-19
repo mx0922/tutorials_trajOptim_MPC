@@ -1,6 +1,6 @@
 # tutorials_trajOptim_MPC
 ## Overview
-A simple and light-weight tutorial of trajectory optimization (TO) and model predictive control (MPC).
+A simple and light-weight tutorial for trajectory optimization (TO) and model predictive control (MPC).
 
 Different from the reinforcement learning (RL), TO and MPC are general model-based control methods, especially for legged robots and manipulators. 
 
