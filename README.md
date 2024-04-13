@@ -1,4 +1,7 @@
 # tutorials_trajOptim_MPC
+<img src="video_bipedWalk_0.5m_0.4s.gif" width="240" height="180"> <img src="video_bipedWalk_0.5m_0.5s.gif" width="240" height="180"> <img src="video_bipedWalk_0.6m_0.4s.gif" width="240" height="180">
+<img src="LMPC_BipedWalking.gif" width="720" height="540">
+
 ## Overview
 A simple and light-weight tutorial for trajectory optimization (TO) and model predictive control (MPC).
 
